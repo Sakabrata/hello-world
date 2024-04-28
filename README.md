@@ -1,2 +1,2 @@
-# hello-world
-This repository is for practising the GitHub Flow.
+hello my name's Saka Brata
+My Hobby's Playing football
